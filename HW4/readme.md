@@ -1,5 +1,6 @@
 Gabe Kuntz 
 [Self Port] https://kuntz30.github.io/120-work/HW4/
+
 This week was soemthing else!! I am submitting this a bit late, but still managed
 to finsih my character. To make this character from complete scratch, while just
 beginning to work woth p.5 was difficult! The challenge however was fun to takle,
